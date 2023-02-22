@@ -6,7 +6,8 @@ Read an OTP number in an incoming SMS and show that number on a screen.
 ## Requirements
 Flutter 1.0 or higher
 ## Installation
-* Clone the repo git clone https://github.com/shemian/sms-code-extractor.git
+* Clone the repo 
+      git clone https://github.com/shemian/sms-code-extractor.git
 * cd sms-code-extractor to project folder.
 * Run flutter pub get
 * Connect your device to your computer and run flutter run.
