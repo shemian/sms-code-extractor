@@ -1,16 +1,13 @@
-# verify_otp
+## SMS-App
 
-A new Flutter project.
+This is application build in Flutter that will Read and store all my previous texts on installing of the  app and also 
+Read an OTP number in an incoming SMS and show that number on a screen. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Requirements
+Flutter 1.0 or higher
+## Installation
+* Clone the repo git clone https://github.com/shemian/sms-code-extractor.git
+* cd sms-code-extractor to project folder.
+* Run flutter pub get
+* Connect your device to your computer and run flutter run.
+Done !!!
